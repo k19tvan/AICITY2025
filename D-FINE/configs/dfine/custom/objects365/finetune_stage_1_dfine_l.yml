@@ -6,7 +6,7 @@ __include__: [
   '../../include/dfine_hgnetv2_960.yml',
 ]
 
-output_dir: ./output/finetune_stage_1_dfine_l.yml
+output_dir: ./output/finetune_stage_1_dfine_l
 
 
 DFINE:
